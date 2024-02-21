@@ -1,0 +1,7 @@
+C:\Users\s233422\OneDrive - The Academy of Interactive Entertainment Ltd\year 1 game development\acesment 1\week two\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csproj.AssemblyReference.cache
+C:\Users\s233422\OneDrive - The Academy of Interactive Entertainment Ltd\year 1 game development\acesment 1\week two\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\s233422\OneDrive - The Academy of Interactive Entertainment Ltd\year 1 game development\acesment 1\week two\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+C:\Users\s233422\OneDrive - The Academy of Interactive Entertainment Ltd\year 1 game development\acesment 1\week two\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe
+C:\Users\s233422\OneDrive - The Academy of Interactive Entertainment Ltd\year 1 game development\acesment 1\week two\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.pdb
+C:\Users\s233422\OneDrive - The Academy of Interactive Entertainment Ltd\year 1 game development\acesment 1\week two\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.exe
+C:\Users\s233422\OneDrive - The Academy of Interactive Entertainment Ltd\year 1 game development\acesment 1\week two\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.pdb

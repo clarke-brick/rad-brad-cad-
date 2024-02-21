@@ -1,0 +1,7 @@
+C:\Users\s233422\OneDrive - The Academy of Interactive Entertainment Ltd\year 1 game development\acesment 1\week two\week2 operators\week 2 task 2\week 2 task 2\obj\Debug\week 2 task 2.csproj.AssemblyReference.cache
+C:\Users\s233422\OneDrive - The Academy of Interactive Entertainment Ltd\year 1 game development\acesment 1\week two\week2 operators\week 2 task 2\week 2 task 2\obj\Debug\week 2 task 2.csproj.CoreCompileInputs.cache
+C:\Users\s233422\OneDrive - The Academy of Interactive Entertainment Ltd\year 1 game development\acesment 1\week two\week2 operators\week 2 task 2\week 2 task 2\bin\Debug\week 2 task 2.exe.config
+C:\Users\s233422\OneDrive - The Academy of Interactive Entertainment Ltd\year 1 game development\acesment 1\week two\week2 operators\week 2 task 2\week 2 task 2\bin\Debug\week 2 task 2.exe
+C:\Users\s233422\OneDrive - The Academy of Interactive Entertainment Ltd\year 1 game development\acesment 1\week two\week2 operators\week 2 task 2\week 2 task 2\bin\Debug\week 2 task 2.pdb
+C:\Users\s233422\OneDrive - The Academy of Interactive Entertainment Ltd\year 1 game development\acesment 1\week two\week2 operators\week 2 task 2\week 2 task 2\obj\Debug\week 2 task 2.exe
+C:\Users\s233422\OneDrive - The Academy of Interactive Entertainment Ltd\year 1 game development\acesment 1\week two\week2 operators\week 2 task 2\week 2 task 2\obj\Debug\week 2 task 2.pdb
